@@ -106,6 +106,11 @@ const opticsExperiments = ref([
     name: 'LensImaging',
     title: '透镜成像',
     description: '通过光线追踪模拟凸透镜和凹透镜的成像原理。'
+  },
+  {
+    name: 'DoubleSlitInterference',
+    title: '双缝干涉',
+    description: '演示光的波动性质，观察干涉条纹的形成和变化。'
   }
 ]);
 
