@@ -2,6 +2,12 @@
 
 本项目是一个基于 Web 的交互式物理实验模拟器，旨在通过动画和交互的方式，帮助初高中学生更好地理解经典的物理实验。
 
+# 在线预览地址
+
+```
+https://leijingxing.github.io/physics_web_demo/experiment/SimplePendulum
+```
+
 ## ✨ 项目特色
 
 - **交互式模拟**: 用户可以亲手调整实验参数，实时观察结果变化。
