@@ -1,0 +1,41 @@
+:root {
+  --bg-color: #f4f7f9;
+  --header-bg-color: #ffffff;
+  --aside-bg-color: #ffffff;
+  --primary-color: #409EFF; /* 使用 Element Plus 的主色调 */
+  --text-color: #303133;
+  --border-color: #e4e7ed;
+  --header-height: 60px;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  --header-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-main {
+  padding: 24px;
+}
+
+/* 通用卡片样式 */
+.content-card {
+  background-color: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+.content-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
