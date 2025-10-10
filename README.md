@@ -5,7 +5,7 @@
 # 在线预览地址
 
 ```
-https://leijingxing.github.io/physics_web_demo/experiment/SimplePendulum
+https://leijingxing.github.io/physics_web_demo/
 ```
 
 ## ✨ 项目特色
