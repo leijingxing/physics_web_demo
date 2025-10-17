@@ -111,6 +111,11 @@ const opticsExperiments = ref([
     name: 'DoubleSlitInterference',
     title: '双缝干涉',
     description: '演示光的波动性质，观察干涉条纹的形成和变化。'
+  },
+  {
+    name: 'DiffractionGrating',
+    title: '激光衍射光栅',
+    description: '模拟激光入射光栅时多阶炫彩衍射谱线的形成。'
   }
 ]);
 
